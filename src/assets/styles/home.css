@@ -40,11 +40,14 @@
 }
 
 .home .homeArea2 .homeArea2__col1 {
-  width: 50%;
-  height: 100%;
-  background-image: url("https://images.unsplash.com/photo-1526925539332-aa3b66e35444?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8Y29kaW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60");
+  width: 40%;
+  height: 80%;
+  background-image: url("https://images.unsplash.com/photo-1517663404855-6f96c7aa20e2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fG1hY2Jvb2t8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60");
   background-size: cover;
   background-position: center center;
+
+  margin-left: 40px;
+  box-shadow: rgb(192, 192, 192);
 }
 
 .home .homeArea2 .homeArea2__col2 {
@@ -87,7 +90,7 @@
 }
 
 .quickBox:hover i {
-  color: #f6e58d;
+  color: #535072;
 }
 
 .quickBox i {

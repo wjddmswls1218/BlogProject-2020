@@ -158,6 +158,7 @@
 .writeBtn {
   width: 200px;
   height: 25px;
+  margin-left: 700px;
 
   outline: none;
   border: none;

@@ -5,6 +5,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-family: "PT Sans", sans-serif;
 }
 .boardWrapper .boardWrapper__titleArea {
   width: 1000px;
